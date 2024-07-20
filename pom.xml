@@ -43,6 +43,7 @@
     <projectEmail>https://github.com/Commonjava/http-testserver</projectEmail>
     <javaVersion>11</javaVersion>
     <undertowVersion>2.2.38.Final</undertowVersion>
+    <slf4j.versoin>1.7.36</slf4j.versoin>
   </properties>
 
   <dependencyManagement>
